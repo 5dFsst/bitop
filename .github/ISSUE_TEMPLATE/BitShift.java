@@ -1,11 +1,7 @@
----
+/*
 name: Java-Vorlage für Bitoperationen
 about: Damit sollen Multiplikationen und Divisionen mit 2 möglich sein!
-title: ''
-labels: ''
-assignees: ''
-
----
+*/
 
 import java.awt.Container;
 import java.awt.FlowLayout;
